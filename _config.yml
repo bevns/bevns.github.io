@@ -24,7 +24,7 @@ github_username:  bevns
 
 # Build settings
 markdown: kramdown
-theme: "jekyll-theme-slate"
+theme: "minima"
 repository: bevns/bevns.github.io
 gems:
   - jekyll-feed
