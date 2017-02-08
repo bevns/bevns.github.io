@@ -198,6 +198,7 @@ DEPENDENCIES
   github-pages
   jekyll-feed (~> 0.6)
   jekyll-theme-cayman
+  liquid
   minima (~> 2.0)
 
 RUBY VERSION
