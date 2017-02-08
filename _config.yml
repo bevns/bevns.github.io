@@ -25,7 +25,7 @@ github_username:  bevns
 # Build settings
 markdown: kramdown
 theme: "jekyll-theme-slate"
-repository: bevns/jekyll-site
+repository: bevns/bevns.github.io
 gems:
   - jekyll-feed
 exclude:
