@@ -24,7 +24,7 @@ github_username:  bevns
 
 # Build settings
 markdown: kramdown
-theme: "jekyll-theme-hack"
+theme: "jekyll-theme-hacker"
 repository: bevns/bevns.github.io
 gems:
   - jekyll-feed
